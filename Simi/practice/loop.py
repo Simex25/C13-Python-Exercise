@@ -38,8 +38,7 @@ def invest(amount, rate, years):
         print(f"year{years} :${amount:,.2f}")
 
 
-amount = float(input("Enter your amount :"))
-rate = float(input("Enter your rate :"))
+amount = float(input("Enter your amount :- "))
+rate = float(input("Enter your rate :- "))
 years = int(input("Enter years"))
 invest(amount, rate, years)
-

@@ -18,7 +18,7 @@
 #     else:
 #         print("Zero Talent")
 #         break
-from Practice.grades import grade
+from Simi.practice.grades import grade
 
 # class classname
 # to differentiate between method and static method . annotate @class method and @ static method for static method

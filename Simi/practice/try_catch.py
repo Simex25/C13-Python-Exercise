@@ -7,6 +7,3 @@ except ValueError:
 
     while number != " ":
         number = number + 1
-
-
-

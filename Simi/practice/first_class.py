@@ -23,5 +23,5 @@ if __name__ == '__main__':
     print(result.get_name(), result.get_age())
     result.set_name("simi")
     print(result.get_name())
-    result.set_name("Fill here Fill here ponpon")
+    result.set_name("Fill here Fill here pontoon")
     print(result.get_name())

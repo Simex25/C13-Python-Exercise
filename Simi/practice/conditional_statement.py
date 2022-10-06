@@ -1,7 +1,3 @@
-# print(("good" != "bad") and not (1 == 1))
-# if 2 + 2 != 5:
-#     print("This is normal")
-
 character = input("Enter any character :")
 if len(character) > 5:
     print(f"{character} is greater than 5")
