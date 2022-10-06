@@ -128,7 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea
-/Simi/chap2/
-/Simi/chap3/
-/Simi/chap4/
-/Simi/chap5/
+.idea/.gitignore
+
+# ignore folder
+.Phyton-exersises/
+.idea/misc.xml
+.idea/modules.xml
+.idea
+.idea/vcs.xml

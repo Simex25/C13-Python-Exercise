@@ -1,4 +1,5 @@
 # This is a sample Python script.
+
 from random_test import FirstClass
 
 # Press Shift+F10 to execute it or replace it with your code.
@@ -14,8 +15,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-    myAccount = FirstClass('Adeola', 34)
-    print(myAccount.get_name())
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 '''
 x = "Adewunmi"
